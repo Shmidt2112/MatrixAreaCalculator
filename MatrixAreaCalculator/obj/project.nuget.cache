@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DxObAe3FbB5qHBVJVfrihq0Dx3/t1z8Q7srnOKXcL69IlO0yzZkaPKZuOXjxehCo1T0asPGZtiZYr432x8EHDw==",
+  "success": true,
+  "projectFilePath": "D:\\git\\MatrixAreaCalculator\\MatrixAreaCalculator\\MatrixAreaCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Damir\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Damir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Damir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Damir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
